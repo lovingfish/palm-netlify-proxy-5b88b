@@ -7,7 +7,7 @@ Google PaLM API proxy on Netlify Edge
 
 ### Deploy With Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/antergone/palm-netlify-proxy)
+link到仓库即可，可一个仓库多份部署，无密码认证
 
 
 ## Discussion
